@@ -18,4 +18,4 @@ const leer = () => {
     datos.forEach(cita => console.log(cita));
 };
 
-module.exports = { registrar, leer};
+module.exports = { registrar, leer };
