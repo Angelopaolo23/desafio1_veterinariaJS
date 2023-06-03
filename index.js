@@ -9,5 +9,5 @@ if(operacion === "registrar"){
 } else if(operacion === "leer"){    
     leer();
 } else{
-    console.log("Debe indicar como funcion 'registrar o 'leer', ademas del nombre del paciente, edad, tipo de animal, color y enfermedad")
-}
+    console.log("Debe indicar como funcion 'registrar o 'leer', en el caso de registrar ademas debe ingresar nombre del paciente, edad, tipo de animal, color y enfermedad")
+};
